@@ -86,3 +86,6 @@ section {
 .section-subtitle {
     font-size: 2.1875rem;
 } 
+.mgTop {
+    margin-top: -1px;
+}
